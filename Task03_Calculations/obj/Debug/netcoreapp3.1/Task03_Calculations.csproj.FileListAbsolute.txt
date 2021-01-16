@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\04_Lab\Task03_Calculations\bin\Debug\netcoreapp3.1\Task03_Calculations.exe
+C:\Users\Kiril\source\repos\04_Lab\Task03_Calculations\bin\Debug\netcoreapp3.1\Task03_Calculations.deps.json
+C:\Users\Kiril\source\repos\04_Lab\Task03_Calculations\bin\Debug\netcoreapp3.1\Task03_Calculations.runtimeconfig.json
+C:\Users\Kiril\source\repos\04_Lab\Task03_Calculations\bin\Debug\netcoreapp3.1\Task03_Calculations.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\04_Lab\Task03_Calculations\bin\Debug\netcoreapp3.1\Task03_Calculations.dll
+C:\Users\Kiril\source\repos\04_Lab\Task03_Calculations\bin\Debug\netcoreapp3.1\Task03_Calculations.pdb
+C:\Users\Kiril\source\repos\04_Lab\Task03_Calculations\obj\Debug\netcoreapp3.1\Task03_Calculations.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\04_Lab\Task03_Calculations\obj\Debug\netcoreapp3.1\Task03_Calculations.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\04_Lab\Task03_Calculations\obj\Debug\netcoreapp3.1\Task03_Calculations.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\04_Lab\Task03_Calculations\obj\Debug\netcoreapp3.1\Task03_Calculations.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\04_Lab\Task03_Calculations\obj\Debug\netcoreapp3.1\Task03_Calculations.dll
+C:\Users\Kiril\source\repos\04_Lab\Task03_Calculations\obj\Debug\netcoreapp3.1\Task03_Calculations.pdb
+C:\Users\Kiril\source\repos\04_Lab\Task03_Calculations\obj\Debug\netcoreapp3.1\Task03_Calculations.genruntimeconfig.cache
