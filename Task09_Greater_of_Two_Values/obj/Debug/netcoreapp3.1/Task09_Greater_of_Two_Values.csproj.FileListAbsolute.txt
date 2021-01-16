@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\04_Lab\Task09_Greater_of_Two_Values\bin\Debug\netcoreapp3.1\Task09_Greater_of_Two_Values.exe
+C:\Users\Kiril\source\repos\04_Lab\Task09_Greater_of_Two_Values\bin\Debug\netcoreapp3.1\Task09_Greater_of_Two_Values.deps.json
+C:\Users\Kiril\source\repos\04_Lab\Task09_Greater_of_Two_Values\bin\Debug\netcoreapp3.1\Task09_Greater_of_Two_Values.runtimeconfig.json
+C:\Users\Kiril\source\repos\04_Lab\Task09_Greater_of_Two_Values\bin\Debug\netcoreapp3.1\Task09_Greater_of_Two_Values.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\04_Lab\Task09_Greater_of_Two_Values\bin\Debug\netcoreapp3.1\Task09_Greater_of_Two_Values.dll
+C:\Users\Kiril\source\repos\04_Lab\Task09_Greater_of_Two_Values\bin\Debug\netcoreapp3.1\Task09_Greater_of_Two_Values.pdb
+C:\Users\Kiril\source\repos\04_Lab\Task09_Greater_of_Two_Values\obj\Debug\netcoreapp3.1\Task09_Greater_of_Two_Values.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\04_Lab\Task09_Greater_of_Two_Values\obj\Debug\netcoreapp3.1\Task09_Greater_of_Two_Values.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\04_Lab\Task09_Greater_of_Two_Values\obj\Debug\netcoreapp3.1\Task09_Greater_of_Two_Values.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\04_Lab\Task09_Greater_of_Two_Values\obj\Debug\netcoreapp3.1\Task09_Greater_of_Two_Values.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\04_Lab\Task09_Greater_of_Two_Values\obj\Debug\netcoreapp3.1\Task09_Greater_of_Two_Values.dll
+C:\Users\Kiril\source\repos\04_Lab\Task09_Greater_of_Two_Values\obj\Debug\netcoreapp3.1\Task09_Greater_of_Two_Values.pdb
+C:\Users\Kiril\source\repos\04_Lab\Task09_Greater_of_Two_Values\obj\Debug\netcoreapp3.1\Task09_Greater_of_Two_Values.genruntimeconfig.cache
