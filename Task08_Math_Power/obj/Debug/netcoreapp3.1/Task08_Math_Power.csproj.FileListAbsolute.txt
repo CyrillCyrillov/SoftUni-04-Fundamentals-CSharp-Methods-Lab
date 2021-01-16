@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\04_Lab\Task08_Math_Power\obj\Debug\netcoreapp3.1\Task08_Math_Power.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\04_Lab\Task08_Math_Power\obj\Debug\netcoreapp3.1\Task08_Math_Power.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\04_Lab\Task08_Math_Power\obj\Debug\netcoreapp3.1\Task08_Math_Power.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\04_Lab\Task08_Math_Power\obj\Debug\netcoreapp3.1\Task08_Math_Power.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\04_Lab\Task08_Math_Power\bin\Debug\netcoreapp3.1\Task08_Math_Power.exe
+C:\Users\Kiril\source\repos\04_Lab\Task08_Math_Power\bin\Debug\netcoreapp3.1\Task08_Math_Power.deps.json
+C:\Users\Kiril\source\repos\04_Lab\Task08_Math_Power\bin\Debug\netcoreapp3.1\Task08_Math_Power.runtimeconfig.json
+C:\Users\Kiril\source\repos\04_Lab\Task08_Math_Power\bin\Debug\netcoreapp3.1\Task08_Math_Power.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\04_Lab\Task08_Math_Power\bin\Debug\netcoreapp3.1\Task08_Math_Power.dll
+C:\Users\Kiril\source\repos\04_Lab\Task08_Math_Power\bin\Debug\netcoreapp3.1\Task08_Math_Power.pdb
+C:\Users\Kiril\source\repos\04_Lab\Task08_Math_Power\obj\Debug\netcoreapp3.1\Task08_Math_Power.dll
+C:\Users\Kiril\source\repos\04_Lab\Task08_Math_Power\obj\Debug\netcoreapp3.1\Task08_Math_Power.pdb
+C:\Users\Kiril\source\repos\04_Lab\Task08_Math_Power\obj\Debug\netcoreapp3.1\Task08_Math_Power.genruntimeconfig.cache
